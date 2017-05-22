@@ -1,2 +1,2 @@
-# data-science-for-security-professionals
+# Data Science For Security Professionals
 Data Science for Security Professionals
